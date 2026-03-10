@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    {
-      "name": "rental-ninja-crm",
-      "url": "https://x-access-token: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@github.com/rental-ninja/rental-ninja-crm-agent.git"
-    }
-  ]
-}

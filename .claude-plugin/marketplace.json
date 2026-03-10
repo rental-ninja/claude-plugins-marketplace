@@ -1,0 +1,19 @@
+{
+  "name": "rental-ninja",
+  "owner": {
+    "name": "Rental Ninja"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Rental Ninja"
+  },
+  "plugins": [
+    {
+      "name": "rental-ninja-crm",
+      "description": "CRM operator for Rental Ninja Hub",
+      "source": {
+        "source": "url",
+        "url": "https://x-access-token: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@github.com/rental-ninja/rental-ninja-crm-agent.git"
+      }
+    }
+  ]
+}
